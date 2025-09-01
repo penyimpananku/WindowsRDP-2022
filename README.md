@@ -9,3 +9,6 @@ click Run workflow -> Run workflow -> wait -> you will see your RDP IP + User + 
 
 
 *ORIGINAL REPO LINK https://github.com/earthprotector1610/WindowsRDP-2022*
+
+
+<!-- Security scan triggered at 2025-09-01 23:18:08 -->
